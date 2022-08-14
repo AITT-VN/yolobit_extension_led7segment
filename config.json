@@ -2,7 +2,7 @@
     "name": "Led 7 đoạn",
     "description": "Mục mở rộng của yolobit cho module led 7 đoạn",
     "libs": [
-        "tm1637.py"
+        "yolobit_tm1637.py"
     ],
     "blocks": [
         "definition.js"
